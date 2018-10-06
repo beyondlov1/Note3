@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_1" android:title="voice" android:icon="@android:drawable/ic_btn_speak_now"/>
+    <item android:id="@+id/menu_2" android:title="OCR" android:icon="@android:drawable/ic_menu_camera"/>
+</menu>

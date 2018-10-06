@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#eeeeee</color>
+    <color name="colorSaddleBrown">#8b4513</color>
+    <color name="colorSienna">#A0522D</color>
+    <color name="colorDarkGray">#A9A9A9</color>
+    <color name="colorBrown">#E89816</color>
+
+    <color name="color_60min">#00F18F</color>
+    <color name="color_30min">#47A0E3</color>
+    <color name="color_15min">#FDE901</color>
+    <color name="color_10min">#FF3C06</color>
+    <color name="color_null">#00000000</color>
+
+    <color name="reminder_selected_color">#57c0d3</color>
+</resources>
